@@ -1,0 +1,2 @@
+include ':app'
+//project(':core-3.2.1').projectDir = new File('libs/core-3.2.1')
